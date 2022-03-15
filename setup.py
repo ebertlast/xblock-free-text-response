@@ -25,7 +25,7 @@ setup(
         'freetextresponse',
     ],
     install_requires=[
-        'Django<2.0.0',
+        'Django',
         'enum34',
         'six',
         'XBlock',
